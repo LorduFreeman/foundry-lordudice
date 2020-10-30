@@ -7,7 +7,7 @@ This module can only be used in conjunction with Dice So Nice! (minimum version 
 I plan to release more themes with future updates of this module.
 
 ## Visual Previews
--coming soon-
+![preview](pics/brimstoneset.png?raw=true)
 
 ## Credits
 
