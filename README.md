@@ -24,8 +24,13 @@ A few of the included styles can be seen here (there are more than just those!).
 ![preview](pics/ddbunch.png?raw=true)
 ![preview](pics/vinesbunch.png?raw=true)
 
-## Credits
+## Feedback
+For feedback just write me a message on Discord (LorduFreeman#8747). For issues open an issue here in github or write me a message.
 
+## Credits
 Dice Textures made from textures by https://texturefabrik.com/ with permission. Thanks! Check out their awesome textures.
 
 Made with a lot of help from the DsN-Devs Simone and JDW, <3. Dice So Nice can be found over here: https://gitlab.com/riccisi/foundryvtt-dice-so-nice
+
+## License
+This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
