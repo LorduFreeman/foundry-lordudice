@@ -7,7 +7,13 @@ This module can only be used in conjunction with Dice So Nice! (minimum version 
 I plan to release more themes with future updates of this module.
 
 ## Visual Previews
-![preview](pics/brimstoneset.png?raw=true)
+A few of the included styles can be seen here (there are more than just those!). They look even better in action.
+![preview](pics/ddset.png?raw=true)
+![preview](pics/saviourset.png?raw=true)
+![preview](pics/saviourbunch.png?raw=true)
+![preview](pics/oozeset.png?raw=true)
+![preview](pics/ddbunch.png?raw=true)
+![preview](pics/vinesbunch.png?raw=true)
 
 ## Credits
 
