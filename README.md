@@ -12,4 +12,5 @@ I plan to release more themes with future updates of this module.
 ## Credits
 
 Dice Textures made from textures by https://texturefabrik.com/ with permission. Thanks! Check out their awesome textures.
+
 Made with a lot of help from the DsN-Devs Simone and JDW, <3. Dice So Nice can be found over here: https://gitlab.com/riccisi/foundryvtt-dice-so-nice
