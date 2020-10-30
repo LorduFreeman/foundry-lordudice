@@ -1,8 +1,8 @@
 # Lordu's Custom Dice for Dice So Nice!
-Repo for the Dice So Nice Addon module
+Repo for my small Dice So Nice! (DsN) dice addon module
 
 ## About/How to use
-This module can only be used in conjunction with Dice So Nice and adds two new systems, one containing custom labels for dark/vampire-type games and a second system which simple contains all other custom styles using new fonts. The fonts, textures and colorsets of this module are added automatically to the selection menu of DsN.
+This module can only be used in conjunction with Dice So Nice! (minimum version required 3.1.0) and adds two new systems, one containing custom dice labelling for dark/horror-type games and a second system which simply contains all other custom styles using new fonts. The fonts, textures and colorsets of this module are added automatically to the selection menu of DsN.
 
 I plan to release more themes with future updates of this module.
 
