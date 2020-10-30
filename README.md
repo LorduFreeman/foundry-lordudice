@@ -2,7 +2,9 @@
 Repo for my small Dice So Nice! (DsN) dice addon module
 
 ## About/How to use
-This module can only be used in conjunction with **Dice So Nice! (minimum version required 3.1.0)** and adds **two new systems**, one containing custom dice labelling for dark/horror-type games and a second system which simply contains all other custom styles using new fonts. The fonts, textures and colorsets of this module are added automatically to the selection menu of DsN and can be used to change other DsN styles as well. Try changing the font or texture of one of your core DsN favourites and see what happens!
+This module can only be used in conjunction with **Dice So Nice! (minimum version required 3.1.0)** and adds **two new systems**, one containing custom dice labelling for dark/horror-type games (named Dark Deeds) and a second system (named Forbidden Knowledge) which simply contains all other custom styles using new fonts. 
+The fonts, textures and colorsets of this module are added automatically to the selection menu of DsN and can be used to change other DsN styles as well. They can easily be recognized by the "LCD" label in front of the new systems (Forbidden Knowledge and Dark Deeds) and the header of the themes.
+Try changing the font or texture of one of your core DsN favourites and see what happens!
 
 I plan to release more themes with future updates of this module.
 
