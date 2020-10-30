@@ -8,6 +8,15 @@ Try changing the font or texture of one of your core DsN favourites and see what
 
 I plan to release more themes with future updates of this module.
 
+### How to use and combine styles
+Match one of my system dice presets (either LCD - Forbidden Knowledge or LCD - Dark Deeds) with their respective Themes, for example the Dark Deeds sytem and the Forgotten Pact theme:
+
+![preview](pics/fp.png?raw=true)
+
+Or create your own styles and use the additional fonts and textures provided with this module. An example based on the DsN Necrotic theme with the Dark Ooze texture and Eater font:
+
+![preview](pics/mix.png?raw=true)
+
 ## Installation
 To install, follow these instructions:
 
