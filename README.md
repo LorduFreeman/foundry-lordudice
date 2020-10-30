@@ -6,6 +6,15 @@ This module can only be used in conjunction with Dice So Nice! (minimum version 
 
 I plan to release more themes with future updates of this module.
 
+## Installation
+To install, follow these instructions:
+
+1.  Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
+2.  Click the Install Module button and enter the following URL: https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/lordudice/module.json
+3.  Click Install and wait for installation to complete.
+
+Alternatively, use the integrated module manager in Foundry.
+
 ## Visual Previews
 A few of the included styles can be seen here (there are more than just those!). They look even better in action.
 ![preview](pics/oozeset.png?raw=true)
