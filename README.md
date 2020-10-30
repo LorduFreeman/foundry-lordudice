@@ -8,3 +8,7 @@ I plan to release more themes with future updates of this module.
 
 ## Visual Previews
 -coming soon-
+
+## Credits
+
+Dice Textures made from textures by https://texturefabrik.com/ with permission. Thanks! Check out their awesome textures.
