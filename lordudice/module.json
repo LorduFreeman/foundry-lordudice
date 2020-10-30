@@ -23,5 +23,9 @@
 	],
 	"scripts": [
 		"scripts/darkdeeds.js", "scripts/forbiddenknowledge.js"
-	]
+	],
+	"url": "https://github.com/LorduFreeman/foundry-lordudice",
+	"manifest": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/lordudice/module.json",
+	"download": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/lordudice01.zip"
+	"readme": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/README.md"
 }
