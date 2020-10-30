@@ -20,13 +20,13 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		texture: 'skincraft',
 		material: 'metal',
 		fontScale: {
-          "d100":0.8,
-		  "d20": 0.9,
-          "d12":1.0,
-		  "d10": 0.9,
-		  "d8": 0.9,
-          "df":1.4,
-          "d6":1.3,
+          "d100":1.1,
+		  "d20": 1.1,
+          "d12":1.2,
+		  "d10": 1.1,
+		  "d8": 1.2,
+          "d6":1.5,
+		  "d4":1.3,
           "d2":1.3
         },
         font:"Jim Nightshade"
@@ -113,7 +113,17 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         edge: '#453629',
 		texture: 'pyramidwall',
 		material: 'metal',
-		font:"IM Fell English"
+		font:"IM Fell English",
+		fontScale: {
+          "d100":0.9,
+		  "d20": 1.1,
+          "d12":1.2,
+		  "d10": 1.1,
+		  "d8": 1.0,
+          "d6":1.5,
+		  "d4":1.3,
+          "d2":1.3
+        }
       },"no");
     });
 

@@ -26,9 +26,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "19",
        "20"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
-     system: "LCD - Dark Deeds",
-	 fontScale: 0.9
+     system: "LCD - Dark Deeds"
    },"d20");
 
    dice3d.addDicePreset({
@@ -37,7 +35,6 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "†",
        "☀"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds"
 	 
    });
@@ -50,7 +47,6 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "3",
        "4"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds"
 	 
    },"d4");
@@ -65,7 +61,6 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "5",
        "6"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds"
    },"d6");
 
@@ -76,9 +71,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "",
        "☀"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds",
-	 fontScale: 1.4 
+	 fontScale: 1.3
    },"df");
    
    dice3d.addDicePreset({
@@ -93,9 +87,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "7",
        "8"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
-     system: "LCD - Dark Deeds",
-	 fontScale: 0.8
+     system: "LCD - Dark Deeds"
    },"d8");
    
    dice3d.addDicePreset({
@@ -112,7 +104,6 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "9",
        "10"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds" 
    },"d10");
 
@@ -132,7 +123,6 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "11",
        "12"
      ],
-	 // colorset:"LCD - Dark Deeds colors",
      system: "LCD - Dark Deeds"
    },"d12");
    
@@ -150,9 +140,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
        "90",
        "00",
      ],
-	 // // colorset:"LCD - Dark Deeds colors",
-     system: "LCD - Dark Deeds",
-	 fontScale: 0.8
+     system: "LCD - Dark Deeds"
    },"d10");
    
    
@@ -179,8 +167,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d12":1.0,
 		  "d10": 0.9,
 		  "d8": 0.9,
-          "df":1.4,
-          "d6":1.3,
+          "d6":1.2,
           "d2":1.3
         },
         font:"Metamorphous"
@@ -210,8 +197,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d12":1.0,
 		  "d10": 0.9,
 		  "d8": 0.9,
-          "df":1.4,
-          "d6":1.3,
+          "d6":1.2,
           "d2":1.3
         },
         font:"Metamorphous"
@@ -240,8 +226,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d12":1.0,
 		  "d10": 0.9,
 		  "d8": 0.9,
-          "df":1.4,
-          "d6":1.3,
+          "d6":1.2,
           "d2":1.3
         },
         font:"Metamorphous"
