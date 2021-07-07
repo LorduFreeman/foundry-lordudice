@@ -1,0 +1,63 @@
+{
+  "name": "lordudice",
+  "title": "Lordu's Custom Dice for Dice So Nice",
+  "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.8",
+  "authors": [
+    {
+		"name":"LorduFreeman",
+		"url": "https://discord.com/users/282511548595830814",
+		"discord": "LorduFreeman#8747"
+    }
+  ],
+  "dependencies": [
+		{
+			"name": "dice-so-nice",
+			"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+		}
+  ],
+  "conflicts": [
+    
+  ],
+  "esmodules": [
+  
+  ],
+  "scripts": [
+	"scripts/darkdeeds.js", "scripts/forbiddenknowledge.js"
+  ],
+  "styles": [
+	"dicestyle.css"
+  ],
+  "languages": [
+
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "readme": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/README.md",
+  "media": [
+  {
+    "type": "cover",
+    "url": "https://somereposite.com/author/repo/raw/images/cover.png",
+    "caption": "Lordu's Custom Dice for Dice So Nice"
+  },
+    {
+      "type": "icon",
+      "url": "https://avatars.githubusercontent.com/u/72170114?s=400&u=e1d4d6fa8f4622a71c23d7e3f5f24d45967ceed3&v=4"
+    },
+  {
+    "type": "screenshot",
+    "url": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/pics/saviourset.png",
+    "caption": "Saviour Dice"
+  },
+  {
+    "type": "screenshot",
+    "url": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/pics/ddset.png",
+    "caption": "Dark Copper Dice"
+  }
+ ]
+}
