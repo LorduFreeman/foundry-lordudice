@@ -1,6 +1,6 @@
 
 Hooks.on('diceSoNiceReady', (dice3d) => {
-  dice3d.addSystem({ id: "LCD - Dark Deeds", name: "LCD - Dark Deeds" }, false);
+  dice3d.addSystem({ id: "LCD - Dark Deeds", name: "LCD - Dark Deeds" }, "default");
 
    dice3d.addDicePreset({
      type: "d20",
@@ -171,7 +171,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d2":1.3
         },
         font:"Metamorphous"
-      },"no");
+      },"default");
     });
 	
   dice3d.addTexture("pact", {
@@ -201,7 +201,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d2":1.3
         },
         font:"Metamorphous"
-      },"no");
+      },"default");
     });
   dice3d.addTexture("sun", {
     name: "Worthy Metal",
@@ -230,7 +230,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d2":1.3
         },
         font:"Metamorphous"
-      },"no");
+      },"default");
     });
 	
 });

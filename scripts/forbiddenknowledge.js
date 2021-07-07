@@ -1,6 +1,6 @@
 
 Hooks.on('diceSoNiceReady', (dice3d) => {
-  dice3d.addSystem({ id: "LCD - Forbidden Knowledge", name: "LCD - Forbidden Knowledge" }, false);
+  dice3d.addSystem({ id: "LCD - Forbidden Knowledge", name: "LCD - Forbidden Knowledge" }, "default");
    
   dice3d.addTexture("skincraft", {
     name: "Vile Vellum",
@@ -30,7 +30,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
           "d2":1.3
         },
         font:"Jim Nightshade"
-      },"no");
+      },"default");
     });
 
   dice3d.addTexture("mindbreak", {
@@ -51,7 +51,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		texture: 'mindbreak',
 		material: 'metal',
 		font:"Metal Mania"
-      },"no");
+      },"default");
     });
 
   dice3d.addTexture("vines", {
@@ -72,7 +72,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		texture: 'vines',
 		material: 'plastic',
 		font:"Eater"
-      },"no");
+      },"default");
     });
 
   dice3d.addTexture("brimstone", {
@@ -93,7 +93,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		texture: 'brimstone',
 		material: 'metal',
 		font:"Amarante"
-      },"no");
+      },"default");
     });
 
   dice3d.addTexture("pyramidwall", {
@@ -124,7 +124,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		  "d4":1.3,
           "d2":1.3
         }
-      },"no");
+      },"default");
     });
 
   dice3d.addTexture("cursed", {
@@ -145,8 +145,70 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		texture: 'cursed',
 		material: 'metal',
 		font:"Almendra"
-      },"no");
+      },"default");
     });
 
+  dice3d.addTexture("hammered", {
+    name: "Hammered Metal",
+    composite: "multiply",
+    source: "modules/lordudice/graphics/dice/copper.png",
+	bump: "modules/lordudice/graphics/dice/copper-bump.png"
+  })
+    .then(() => {
+      dice3d.addColorset({
+        name: 'LCD - Hammered Glory colors',
+        description: "Hammered Glory",
+        category: "LCD - Forbidden Knowledge",
+        background: "#ac9c80",
+		foreground: '#e2a678',
+		outline: '#864e23',
+        edge: '#5e5e5e',
+		texture: 'hammered',
+		material: 'metal',
+		font:"Metamorphous"
+      },"default");
+    });
+
+  dice3d.addTexture("stone", {
+    name: "Rugged Stone",
+    composite: "multiply",
+    source: "modules/lordudice/graphics/dice/stone.png",
+	bump: "modules/lordudice/graphics/dice/stone-bump.png"
+  })
+    .then(() => {
+      dice3d.addColorset({
+        name: 'LCD - Rugged Path colors',
+        description: "Rugged Path",
+        category: "LCD - Forbidden Knowledge",
+        background: "#c3c3d0",
+		foreground: '#ffffff',
+		outline: '#6d4f3b',
+        edge: '#8c8c8c',
+		texture: 'stone',
+		material: 'plastic',
+		font:"Metamorphous"
+      },"default");
+    });
+
+  dice3d.addTexture("icy", {
+    name: "Streaks",
+    composite: "overlay",
+    source: "modules/lordudice/graphics/dice/icy.png",
+	bump: "modules/lordudice/graphics/dice/icy-bump.png"
+  })
+    .then(() => {
+      dice3d.addColorset({
+        name: 'LCD - Streaks colors',
+        description: "Streaks",
+        category: "LCD - Forbidden Knowledge",
+        background: "#033529",
+		foreground: '#ffffff',
+		outline: '#1f3322',
+        edge: '#8c8c8c',
+		texture: 'icy',
+		material: 'metal',
+		font:"Metal Mania"
+      },"default");
+    });
 
 });

@@ -42,7 +42,7 @@
   "media": [
   {
     "type": "cover",
-    "url": "https://somereposite.com/author/repo/raw/images/cover.png",
+    "url": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/pics/lcdcover.png",
     "caption": "Lordu's Custom Dice for Dice So Nice"
   },
     {
