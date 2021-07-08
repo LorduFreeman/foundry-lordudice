@@ -1,5 +1,5 @@
 # Lordu's Custom Dice for Dice So Nice!
-![preview](pics/lcdcover.pngraw=true)
+![preview](pics/lcdcover.png?raw=true)
 ## About/How to use
 This module can only be used in conjunction with **Dice So Nice! (minimum version required 3.1.0)** and adds **two new systems**, one containing custom dice labelling for dark/horror-type games (named Dark Deeds) and a second system (named Forbidden Knowledge) which simply contains all other custom styles using new fonts. 
 The fonts, textures and colorsets of this module are added automatically to the selection menu of DsN and can be used to change other DsN styles as well. They can easily be recognized by the "LCD" label in front of the new systems (Forbidden Knowledge and Dark Deeds) and the header of the themes.
