@@ -1,7 +1,7 @@
 # Lordu's Custom Dice for Dice So Nice!
 ![preview](pics/lcdcover.png?raw=true)
 ## Changelog
-# 0.2
+### 0.2
 - Updated compatability to Foundry 0.8 and Dice So Nice 4.0
 - Added 3 new Presets (Streaks, Hammered Glory & Rugged Path)
 
