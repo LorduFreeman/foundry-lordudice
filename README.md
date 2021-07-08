@@ -18,13 +18,7 @@ Or create your own styles and use the additional fonts and textures provided wit
 ![preview](pics/mix.png?raw=true)
 
 ## Installation
-To install, follow these instructions:
-
-1.  Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
-2.  Click the Install Module button and enter the following URL: https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/lordudice/module.json
-3.  Click Install and wait for installation to complete.
-
-Alternatively, use the integrated module manager in Foundry.
+Use the integrated module manager in Foundry.
 
 ## Visual Previews
 A few of the included styles can be seen here (there are more than just those!). They look even better in action.
