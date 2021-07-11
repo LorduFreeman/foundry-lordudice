@@ -42,4 +42,5 @@ Dice Textures made from textures by https://texturefabrik.com/ with permission. 
 Made with a lot of help from the DsN-Devs Simone and JDW, <3. Dice So Nice can be found over here: https://gitlab.com/riccisi/foundryvtt-dice-so-nice
 
 ## License
+This work is licensed under the MIT License: https://mit-license.org
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
