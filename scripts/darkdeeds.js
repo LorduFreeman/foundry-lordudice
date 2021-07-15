@@ -1,6 +1,6 @@
 
 Hooks.on('diceSoNiceReady', (dice3d) => {
-  dice3d.addSystem({ id: "LCD - Dark Deeds", name: "LCD - Dark Deeds" }, "default");
+  dice3d.addSystem({ id: "LCD - Dark Deeds", name: "🐸 Dark Deeds" }, "default");
 
    dice3d.addDicePreset({
      type: "d20",
@@ -145,7 +145,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
    
    
   dice3d.addTexture("copper", {
-    name: "Dark Copper",
+    name: "🐸 Dark Copper",
     composite: "multiply",
     source: "modules/lordudice/graphics/dice/rough.png",
 	bump: "modules/lordudice/graphics/dice/rough-bump.png"
@@ -153,7 +153,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     .then(() => {
       dice3d.addColorset({
         name: 'LCD - Dark Deeds colors',
-        description: "Dark Tarnished Copper",
+        description: "🐸 Dark Tarnished Copper",
         category: "LCD - Dark Deeds",
         background: "#1a1a1a",
 		foreground: '#800000',
@@ -175,7 +175,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     });
 	
   dice3d.addTexture("pact", {
-    name: "Forgotten Pact",
+    name: "🐸 Forgotten Pact",
     composite: "soft-light",
     source: "modules/lordudice/graphics/dice/pact.png",
 	bump: "modules/lordudice/graphics/dice/pact-bump.png"
@@ -183,7 +183,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     .then(() => {
       dice3d.addColorset({
         name: 'LCD - Dark Desires',
-        description: "Forgotten Pact",
+        description: "🐸 Forgotten Pact",
         category: "LCD - Dark Deeds",
         background: "#c8c8c8",
 		foreground: '#4e0000',
@@ -204,7 +204,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
       },"default");
     });
   dice3d.addTexture("sun", {
-    name: "Worthy Metal",
+    name: "🐸 Worthy Metal",
     composite: "multiply",
     source: "modules/lordudice/graphics/dice/sun.png",
 	bump: "modules/lordudice/graphics/dice/sun.png"
@@ -212,7 +212,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     .then(() => {
       dice3d.addColorset({
         name: 'LCD - Saviours Blessing',
-        description: "Saviours Blessing",
+        description: "🐸 Saviours Blessing",
         category: "LCD - Dark Deeds",
         background: "#fff1bb",
 		foreground: '#ff870d',
