@@ -153,7 +153,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     .then(() => {
       dice3d.addColorset({
         name: 'LCD - Dark Deeds colors',
-        description: "🐸 Dark Tarnished Copper",
+        description: "🐸 Tarnished Copper",
         category: "LCD - Dark Deeds",
         background: "#1a1a1a",
 		foreground: '#800000',
