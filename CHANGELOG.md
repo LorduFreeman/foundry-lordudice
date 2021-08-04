@@ -1,3 +1,6 @@
+### 0.31 Whoops
+- Fixed images not loading properly.
+
 ### 0.3 Webp, Frog Icons, Changelog
 - Images are now .webp and therefore smaller in size
 - Added frog icons to options to easily identify which dice module the options are from
