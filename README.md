@@ -1,9 +1,5 @@
 # Lordu's Custom Dice for Dice So Nice!
 ![preview](pics/lcdcover.png?raw=true)
-## Changelog
-### 0.2
-- Updated compatability to Foundry 0.8 and Dice So Nice 4.0
-- Added 3 new Presets (Streaks, Hammered Glory & Rugged Path)
 
 ## About/How to use
 This module can only be used in conjunction with **Dice So Nice! (minimum version required 3.1.0)** and adds **two new systems**, one containing custom dice labelling for dark/horror-type games (named Dark Deeds) and a second system (named Forbidden Knowledge) which simply contains all other custom styles using new fonts. 
