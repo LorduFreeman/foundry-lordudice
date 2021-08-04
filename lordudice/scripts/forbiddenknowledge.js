@@ -5,8 +5,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("skincraft", {
     name: "🐸 Vile Vellum",
     composite: "darken",
-    source: "modules/lordudice/graphics/dice/skin.png",
-	bump: "modules/lordudice/graphics/dice/skin-bump.png"
+    source: "modules/lordudice/graphics/dice/skin.webp",
+	bump: "modules/lordudice/graphics/dice/skin-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -36,8 +36,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("mindbreak", {
     name: "🐸 Dark Ooze",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/madness.png",
-	bump: "modules/lordudice/graphics/dice/madness-bump.png"
+    source: "modules/lordudice/graphics/dice/madness.webp",
+	bump: "modules/lordudice/graphics/dice/madness-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -57,8 +57,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("vines", {
     name: "🐸 Writhing Vines",
     composite: "overlay",
-    source: "modules/lordudice/graphics/dice/vines.png",
-	bump: "modules/lordudice/graphics/dice/vines.png"
+    source: "modules/lordudice/graphics/dice/vines.webp",
+	bump: "modules/lordudice/graphics/dice/vines.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -78,8 +78,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("brimstone", {
     name: "🐸 Brimstone",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/brimstone.png",
-	bump: "modules/lordudice/graphics/dice/brimstone-bump.png"
+    source: "modules/lordudice/graphics/dice/brimstone.webp",
+	bump: "modules/lordudice/graphics/dice/brimstone-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -99,8 +99,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("pyramidwall", {
     name: "🐸 Desert Walls",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/pyramidwall.png",
-	bump: "modules/lordudice/graphics/dice/pyramidwall-bump.png"
+    source: "modules/lordudice/graphics/dice/pyramidwall.webp",
+	bump: "modules/lordudice/graphics/dice/pyramidwall-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -130,8 +130,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("cursed", {
     name: "🐸 Cursed Fangs",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/cursed.png",
-	bump: "modules/lordudice/graphics/dice/cursed-bump.png"
+    source: "modules/lordudice/graphics/dice/cursed.webp",
+	bump: "modules/lordudice/graphics/dice/cursed-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -151,8 +151,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("hammered", {
     name: "🐸 Hammered Metal",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/copper.png",
-	bump: "modules/lordudice/graphics/dice/copper-bump.png"
+    source: "modules/lordudice/graphics/dice/copper.webp",
+	bump: "modules/lordudice/graphics/dice/copper-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -172,8 +172,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("stone", {
     name: "🐸 Rugged Stone",
     composite: "multiply",
-    source: "modules/lordudice/graphics/dice/stone.png",
-	bump: "modules/lordudice/graphics/dice/stone-bump.png"
+    source: "modules/lordudice/graphics/dice/stone.webp",
+	bump: "modules/lordudice/graphics/dice/stone-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -193,8 +193,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addTexture("icy", {
     name: "🐸 Streaks",
     composite: "overlay",
-    source: "modules/lordudice/graphics/dice/icy.png",
-	bump: "modules/lordudice/graphics/dice/icy-bump.png"
+    source: "modules/lordudice/graphics/dice/icy.webp",
+	bump: "modules/lordudice/graphics/dice/icy-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
