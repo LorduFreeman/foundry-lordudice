@@ -3,8 +3,8 @@
 - Added frog icons to options to easily identify which dice module the options are from
 - added a Changelog!
 
-### 0.2
-- Updated compatability to Foundry 0.8 and Dice So Nice 4.0
+### 0.2 Upgrades
+- Updated compatibility to Foundry 0.8 and Dice So Nice 4.0
 - Added 3 new Presets (Streaks, Hammered Glory & Rugged Path)
 
 ### 0.1
