@@ -1,3 +1,6 @@
+### 0.33 Nothing to see here ... #2
+- Fixing a git-related issue (textures still not loading). For real this time. 
+ 
 ### 0.32 Nothing to see here
 - Fixing a git-related issue (textures still not loading).
  
