@@ -1,3 +1,6 @@
+### 0.32 Nothing to see here
+- Fixing a git-related issue (textures still not loading).
+ 
 ### 0.31 Whoops
 - Fixed images not loading properly.
 
