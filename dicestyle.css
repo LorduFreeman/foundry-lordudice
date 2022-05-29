@@ -1,12 +1,3 @@
-@font-face {
-  font-family: 'Halant';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Halant Regular'), local('Halant-Regular'),
-       url('../lordudice/fonts/halant-v8-latin-regular.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
-  font-variant-numeric: tabular-nums;
-}
-
 /* metamorphous-regular - latin */
 @font-face {
   font-family: 'Metamorphous';
