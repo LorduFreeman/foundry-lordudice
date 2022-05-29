@@ -44,7 +44,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Madness colors',
         description: "🐸 Liquid Horrors",
         category: "LCD - Forbidden Knowledge",
-        background: "#330033",
+        background: "#990048",
 		foreground: '#adacd5',
 		outline: '#cc0099',
         edge: '#4d004d',
@@ -138,7 +138,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Cursed Visions colors',
         description: "🐸 Cursed Visions",
         category: "LCD - Forbidden Knowledge",
-        background: "#300040",
+        background: "#7d00a6",
 		foreground: '#8600b3',
 		outline: '#a300d9',
         edge: '#453629',
@@ -185,7 +185,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		outline: '#6d4f3b',
         edge: '#8c8c8c',
 		texture: 'stone',
-		material: 'plastic',
+		material: 'metal',
 		font:"Metamorphous"
       },"default");
     });

@@ -155,7 +155,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Dark Deeds colors',
         description: "🐸 Dark Tarnished Copper",
         category: "LCD - Dark Deeds",
-        background: "#1a1a1a",
+        background: "#4d4d4d",
 		foreground: '#800000',
 		outline: '#330000',
         edge: '#1a1a1a',
@@ -176,7 +176,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 	
   dice3d.addTexture("pact", {
     name: "🐸 Forgotten Pact",
-    composite: "soft-light",
+    composite: "multiply",
     source: "modules/lordudice/graphics/dice/pact.webp",
 	bump: "modules/lordudice/graphics/dice/pact-bump.webp"
   })
@@ -185,12 +185,12 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Dark Desires',
         description: "🐸 Forgotten Pact",
         category: "LCD - Dark Deeds",
-        background: "#c8c8c8",
-		foreground: '#4e0000',
-		outline: '#990000',
-        edge: '#350000',
+        background: "#702729",
+		foreground: '#ce0000',
+		outline: '#b30000',
+        edge: '#680000',
 		texture: 'pact',
-		material: 'plastic',
+		material: 'metal',
 		fontScale: {
           "d100":0.8,
 		  "d20": 0.9,
