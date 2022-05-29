@@ -1,3 +1,7 @@
+### 0.34 V9 Compat
+- Bumped module compatibility to V9 - it worked fine but now the numbers are right as well.
+- Minor graphical improvements on the dice presets. Due to changes in the DsN rendering some dice sets were too dark. 
+
 ### 0.33 Nothing to see here ... #2
 - Fixing a git-related issue (textures still not loading). For real this time. 
  
