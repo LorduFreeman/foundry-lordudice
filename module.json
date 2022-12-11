@@ -1,12 +1,15 @@
 {
+  "id": "lordudice",
   "name": "lordudice",
   "title": "Lordu's Custom Dice for Dice So Nice",
   "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
   "version": "This is auto replaced",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "9.269",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10",
+	"maximum": "10"
+  },
   "authors": [
     {
 		"name":"LorduFreeman",

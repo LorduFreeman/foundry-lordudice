@@ -1,3 +1,6 @@
+### 0.35 Compatibility Update V10
+- No new features, just adding V10 declarations
+
 ### 0.34 V9 Compat
 - Bumped module compatibility to V9 - it worked fine but now the numbers are right as well.
 - Minor graphical improvements on the dice presets. Due to changes in the DsN rendering some dice sets were too dark. 
