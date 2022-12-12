@@ -42,6 +42,3 @@ This work is licensed under the MIT License: https://mit-license.org
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
 
 ## To do:
-- Add Changelog
-- Webp compression
-
