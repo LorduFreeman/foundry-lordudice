@@ -1,3 +1,62 @@
+Hooks.on("init", () => {
+    
+    CONFIG.fontDefinitions["Metamorphous"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/metamorphous-v11-latin-regular.woff2"]}
+        ]
+    };
+	
+    CONFIG.fontDefinitions["IM Fell English"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/im-fell-english-v10-latin-regular.woff2"]}
+        ]
+    };	
+	
+    CONFIG.fontDefinitions["Redressed"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/redressed-v11-latin-regular.woff2"]}
+        ]
+    };	
+
+    CONFIG.fontDefinitions["Metal Mania"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/metal-mania-v10-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Amarante"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/amarante-v8-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Jim Nightshade"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/jim-nightshade-v8-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Eater"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/eater-v9-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Almendra"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/almendra-v13-latin-regular.woff2"]}
+        ]
+    };
+			
+});
 
 Hooks.on('diceSoNiceReady', (dice3d) => {
   dice3d.addSystem({ id: "LCD - Dark Deeds", name: "🐸 Dark Deeds" }, "default");

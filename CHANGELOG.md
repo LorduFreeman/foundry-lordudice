@@ -1,3 +1,8 @@
+### 0.36 V10 Fonts Integration
+- You can now use the fonts from this module for drawings, journals and other things!
+- Fonts available for dice theming again
+- Added V11 compatibility declaration
+
 ### 0.35 Compatibility Update V10
 - No new features, just adding V10 declarations
 
