@@ -17,12 +17,13 @@
 		"discord": "LorduFreeman#8747"
     }
   ],
-  "dependencies": [
-		{
-			"name": "dice-so-nice",
-			"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
-		}
-  ],
+  "relationships": {
+	  "requires": [{
+		"id": "dice-so-nice",
+		"type": "module",
+		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+	  }]
+	},
   "conflicts": [
     
   ],
