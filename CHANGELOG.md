@@ -1,3 +1,6 @@
+### 0.38 V11 Verification
+- Edited manifest for V11 verified compatibility
+
 ### 0.37 V11 Compatibility and more Fonts!
 - Fixed a remaining manifest warning issue
 - Added a few new fonts!
