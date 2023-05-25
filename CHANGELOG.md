@@ -1,3 +1,7 @@
+### 0.37 V11 Compatibility and more Fonts!
+- Fixed a remaining manifest warning issue
+- Added a few new fonts!
+
 ### 0.36 V10 Fonts Integration
 - You can now use the fonts from this module for drawings, journals and other things!
 - Fonts available for dice theming again
