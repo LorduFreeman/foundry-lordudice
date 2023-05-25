@@ -67,3 +67,41 @@
   src: local('Almendra Regular'), local('Almendra-Regular'),
        url('../lordudice/fonts/almendra-v13-latin-regular.woff2') format('woff2'); /* Chrome 26+, Opera 23+, Firefox 39+ */
 }
+
+/* audiowide-regular - latin */
+@font-face {
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../lordudice/fonts/Audiowide-Regular.ttf') format('truetype') /* Chrome 36+, Opera 23+, Firefox 39+ */
+}
+/* josefin-sans-regular - latin */
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../lordudice/fonts/josefin-sans-v25-latin-regular.woff2') format('woff2') /* Chrome 36+, Opera 23+, Firefox 39+ */
+}
+
+/* unifrakturcook-700 - latin */
+@font-face {
+  font-family: 'UnifrakturCook';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../lordudice/fonts/unifrakturcook-v19-latin-700.woff2') format('woff2') /* Chrome 36+, Opera 23+, Firefox 39+ */
+}
+/* black-ops-one-regular - latin */
+@font-face {
+  font-family: 'Black Ops One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../lordudice/fonts/black-ops-one-v20-latin-regular.woff2') format('woff2') /* Chrome 36+, Opera 23+, Firefox 39+ */
+}
+/* carter-one-regular - latin */
+@font-face {
+  font-family: 'Carter One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../lordudice/fonts/carter-one-v17-latin-regular.woff2') format('woff2') /* Chrome 36+, Opera 23+, Firefox 39+ */
+}

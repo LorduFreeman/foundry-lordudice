@@ -55,7 +55,42 @@ Hooks.on("init", () => {
     {urls: ["modules/lordudice/fonts/almendra-v13-latin-regular.woff2"]}
         ]
     };
-			
+
+    CONFIG.fontDefinitions["Audiowide"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/Audiowide-Regular.ttf"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Josefin Sans"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/josefin-sans-v25-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["UnifrakturCook"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/unifrakturcook-v19-latin-700.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Black Ops One"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/black-ops-one-v20-latin-regular.woff2"]}
+        ]
+    };
+
+    CONFIG.fontDefinitions["Carter One"] = {
+  editor: true,
+  fonts: [
+    {urls: ["modules/lordudice/fonts/carter-one-v17-latin-regular.woff2"]}
+        ]
+    };
+
 });
 
 Hooks.on('diceSoNiceReady', (dice3d) => {
