@@ -1,3 +1,5 @@
+### 0.39 V11 Verification fix
+
 ### 0.38 V11 Verification
 - Edited manifest for V11 verified compatibility
 
