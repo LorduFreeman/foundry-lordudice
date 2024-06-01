@@ -1,14 +1,13 @@
 {
   "id": "lordudice",
-  "name": "lordudice",
   "title": "Lordu's Custom Dice for Dice So Nice",
   "description": "Additional Dice presets and themes for Dice So Nice. Requires Dice So Nice module to work.",
   "version": "This is auto replaced",
   "library": "false",
   "compatibility": {
-    "minimum": "9",
-    "verified": "11",
-	"maximum": "11"
+    "minimum": "10",
+    "verified": "12",
+	"maximum": "12"
   },
   "authors": [
     {
@@ -24,12 +23,6 @@
 		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
 	  }]
 	},
-  "conflicts": [
-    
-  ],
-  "esmodules": [
-  
-  ],
   "scripts": [
 	"scripts/darkdeeds.js", "scripts/forbiddenknowledge.js"
   ],
@@ -43,6 +36,7 @@
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
   "readme": "https://raw.githubusercontent.com/LorduFreeman/foundry-lordudice/main/README.md",
+  "manifestPlusVersion": "1.2.0",
   "media": [
   {
     "type": "cover",
