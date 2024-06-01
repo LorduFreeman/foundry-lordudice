@@ -1,3 +1,7 @@
+### 0.40.2 V12 Verification fix
+- Testing indicates the module works without issue. Dice so Nice throws a few deprecation warnings - but that's not concerning yet.
+- Jumped a few sub versions because I f'd up again.
+
 ### 0.39 V11 Verification fix
 
 ### 0.38 V11 Verification
