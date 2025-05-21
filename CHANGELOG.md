@@ -1,3 +1,7 @@
+### 0.41 V13 Compat Bumped
+- Brief V13 testing, no issues
+- Bumped compat to V13
+
 ### 0.40.2 V12 Verification fix
 - Testing indicates the module works without issue. Dice so Nice throws a few deprecation warnings - but that's not concerning yet.
 - Jumped a few sub versions because I f'd up again.
