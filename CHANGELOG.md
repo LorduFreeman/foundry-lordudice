@@ -1,3 +1,7 @@
+### 0.42 V14 Compat bump
+- Brief V14 testing, no issues
+- Bumped compat to V14
+
 ### 0.41 V13 Compat Bumped
 - Brief V13 testing, no issues
 - Bumped compat to V13
