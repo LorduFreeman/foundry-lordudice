@@ -1,3 +1,6 @@
+ ### 0.43 Texture changes
+- Fixes to Height Maps, they look more realistic and less harsh now
+
 ### 0.42 V14 Compat bump
 - Brief V14 testing, no issues
 - Bumped compat to V14
