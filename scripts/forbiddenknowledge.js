@@ -58,7 +58,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     name: "🐸 Writhing Vines",
     composite: "overlay",
     source: "modules/lordudice/graphics/dice/vines.webp",
-	bump: "modules/lordudice/graphics/dice/vines.webp"
+	bump: "modules/lordudice/graphics/dice/vines-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -70,7 +70,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
 		outline: '#666600',
         edge: '#0e1600',
 		texture: 'vines',
-		material: 'plastic',
+		material: 'wood',
 		font:"Eater"
       },"default");
     });
@@ -86,9 +86,9 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Path to Ruin colors',
         description: "🐸 Old Brimstone",
         category: "LCD - Forbidden Knowledge",
-        background: "#ff5c26",
+        background: "#f23c00",
 		foreground: '#e1b3ac',
-		outline: '#ff8000',
+		outline: '#994d00',
         edge: '#5a0000',
 		texture: 'brimstone',
 		material: 'metal',
@@ -107,9 +107,9 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Ancient Tombs colors',
         description: "🐸 Ancient Walls",
         category: "LCD - Forbidden Knowledge",
-        background: "#b07248",
-		foreground: '#2f150c',
-		outline: '#432020',
+        background: "#68432a",
+		foreground: '#ffffff',
+		outline: '#000000',
         edge: '#453629',
 		texture: 'pyramidwall',
 		material: 'metal',
@@ -140,7 +140,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         category: "LCD - Forbidden Knowledge",
         background: "#7d00a6",
 		foreground: '#8600b3',
-		outline: '#a300d9',
+		outline: '#43005a',
         edge: '#453629',
 		texture: 'cursed',
 		material: 'metal',
@@ -160,12 +160,22 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         description: "🐸 Hammered Glory",
         category: "LCD - Forbidden Knowledge",
         background: "#ac9c80",
-		foreground: '#e2a678',
-		outline: '#864e23',
+		foreground: '#ebc2a2',
+		outline: '#5e3618',
         edge: '#5e5e5e',
 		texture: 'hammered',
 		material: 'metal',
-		font:"Metamorphous"
+		font:"Metamorphous",
+		fontScale: {
+          "d100": 0.8,
+		  "d20": 0.9,
+          "d12":1.2,
+		  "d10": 0.9,
+		  "d8": 0.8,
+          "d6":1.0,
+		  "d4":0.9,
+          "d2":1.0
+        }
       },"default");
     });
 
@@ -180,13 +190,23 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Rugged Path colors',
         description: "🐸 Rugged Path",
         category: "LCD - Forbidden Knowledge",
-        background: "#c3c3d0",
-		foreground: '#ffffff',
-		outline: '#6d4f3b',
+        background: "#8a8aa3",
+		foreground: '#e6e6e6',
+		outline: '#58586f',
         edge: '#8c8c8c',
 		texture: 'stone',
-		material: 'metal',
-		font:"Metamorphous"
+		material: 'stone',
+		font:"Metamorphous",
+		fontScale: {
+          "d100": 0.8,
+		  "d20": 0.9,
+          "d12":1.2,
+		  "d10": 0.9,
+		  "d8": 0.8,
+          "d6":1.0,
+		  "d4":0.9,
+          "d2":1.0
+        }
       },"default");
     });
 
@@ -203,7 +223,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         category: "LCD - Forbidden Knowledge",
         background: "#033529",
 		foreground: '#ffffff',
-		outline: '#1f3322',
+		outline: '#0c130d',
         edge: '#8c8c8c',
 		texture: 'icy',
 		material: 'metal',

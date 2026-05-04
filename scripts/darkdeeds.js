@@ -249,8 +249,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         name: 'LCD - Dark Deeds colors',
         description: "🐸 Dark Tarnished Copper",
         category: "LCD - Dark Deeds",
-        background: "#4d4d4d",
-		foreground: '#800000',
+        background: "#484848",
+		foreground: '#b30000',
 		outline: '#330000',
         edge: '#1a1a1a',
 		texture: 'copper',
@@ -280,8 +280,8 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         description: "🐸 Forgotten Pact",
         category: "LCD - Dark Deeds",
         background: "#702729",
-		foreground: '#ce0000',
-		outline: '#b30000',
+		foreground: '#ff6868',
+		outline: '#4d0000',
         edge: '#680000',
 		texture: 'pact',
 		material: 'metal',
@@ -301,7 +301,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
     name: "🐸 Worthy Metal",
     composite: "multiply",
     source: "modules/lordudice/graphics/dice/sun.webp",
-	bump: "modules/lordudice/graphics/dice/sun.webp"
+	bump: "modules/lordudice/graphics/dice/sun-bump.webp"
   })
     .then(() => {
       dice3d.addColorset({
@@ -310,7 +310,7 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         category: "LCD - Dark Deeds",
         background: "#fff1bb",
 		foreground: '#ff870d',
-		outline: '#ff6b00',
+		outline: '#990d00',
         edge: '#ffbf00',
 		texture: 'sun',
 		material: 'metal',
