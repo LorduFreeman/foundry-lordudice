@@ -11,11 +11,11 @@ Try changing the font or texture of one of your core Dice so Nice styles and see
 I plan to slowly release more themes with future updates of this module.
 
 ### How to use and combine styles
-Match one of my dice presets with their respective themes, for example the Dark Deeds sytem and the Forgotten Pact theme:
+Match one of my dice presets with their respective themes, for example the Dark Deeds style and the Forgotten Pact theme:
 
 ![preview](pics/dd_fp.webp?raw=true)
 
-Or create your own styles and use the additional fonts and textures provided by this module. Here is an example based on the Necrotic theme with the Dark Ooze texture and Eater font:
+**Create your own look** by using the additional fonts and textures provided by this module. Here is an example based on the Necrotic theme with the Dark Ooze texture and Eater font:
 
 ![preview](pics/necro_ooze.webp?raw=true)
 
@@ -39,4 +39,5 @@ Made with a lot of help from the DsN-Devs Simone and JDW, <3. Dice So Nice can b
 
 ## License
 This work is licensed under the MIT License: https://mit-license.org
+
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
