@@ -10,8 +10,6 @@ Try changing the font or texture of one of your core Dice so Nice styles and see
 
 I plan to slowly release more themes with future updates of this module.
 
-![preview](pics/Dice.webm?raw=true)
-
 ### How to use and combine styles
 Match one of my dice presets with their respective themes, for example the Dark Deeds sytem and the Forgotten Pact theme:
 
