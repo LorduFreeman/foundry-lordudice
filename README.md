@@ -2,14 +2,18 @@
 ![preview](pics/lcdcover.png?raw=true)
 
 ## About/How to use
-This module can only be used in conjunction with **Dice So Nice!** and adds **two dice label styles**, "Dark Deeds" and "Forbidden Knowledge". The first contains custom dice labelling for dark/horror-type games (replacing the 1 label with a cross † and several other maximum numbers with a sun ☀). The second style simply contains all other custom dice themes not fitting into the dark fantasy category. 
-The fonts, textures and color sets of this module are added automatically to the selection menu of Dice so Nice and can be used to customize all your dice. They can easily be recognized by the "🐸" label in front of the new texture options, theme options and names of the themes.
+This module can only be used in conjunction with **Dice So Nice!** and adds new textures, fonts and **two dice label styles**, "Dark Deeds" and "Forbidden Knowledge". The first style contains custom dice labelling for dark/horror-type games (replacing the 1 label with a cross † and several other maximum numbers with a sun ☀). The second style simply contains all other custom dice themes not fitting into the dark fantasy category. 
+
+The fonts, textures and color sets of this module are added automatically to the dice configuration menu of Dice so Nice and can be used to customize all your dice. They can easily be recognized by the "🐸" label in front of the new texture options, theme options and theme names.
+
 Try changing the font or texture of one of your core Dice so Nice styles and see what happens!
 
-I plan to release more themes with future updates of this module.
+I plan to slowly release more themes with future updates of this module.
+
+![preview](pics/Dice.webm?raw=true)
 
 ### How to use and combine styles
-Match one of my  dice presets with their respective themes, for example the Dark Deeds sytem and the Forgotten Pact theme:
+Match one of my dice presets with their respective themes, for example the Dark Deeds sytem and the Forgotten Pact theme:
 
 ![preview](pics/dd_fp.webp?raw=true)
 
